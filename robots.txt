@@ -1,0 +1,7 @@
+# www.robotstxt.org/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://machinisthands.github.io/sitemap.xml
+Sitemap: https://machinisthands.github.io/tkmceworkshop/sitemap.xml
