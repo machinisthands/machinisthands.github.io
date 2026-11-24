@@ -2,6 +2,9 @@
 
 User-agent: *
 Allow: /
+# build templates of the WorldSkills pages, not pages of their own
+Disallow: /worldskills/templates/
 
 Sitemap: https://machinisthands.github.io/sitemap.xml
 Sitemap: https://machinisthands.github.io/mechanicalworkshop/sitemap.xml
+Sitemap: https://machinisthands.github.io/worldskills/sitemap.xml
